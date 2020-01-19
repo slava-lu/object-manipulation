@@ -4,5 +4,6 @@ This is the repo with examples from the [medium article](https://medium.com/@via
 
 To run and play with these examples:
  - install nodemon: *npm install -g nodemon*
+ - run *yarn* to install dependencies
  - make sure you have node of version 13+ 
  - run this command: *nodemon --harmony ./src/index.js*
